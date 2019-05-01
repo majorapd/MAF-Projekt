@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">MAF Amőba</string>
+    <string name="newGame">Új játék</string>
+    <string name="already_won">A játék véget ért!</string>
+    <string name="win">Nyert!</string>
+    <string name="taken">Foglalt mező!</string>
+    <string name="spot">mezo</string>
+    <string name="current">Jelenlegi Játékos:</string>
+    <string name="draw">Döntetlen!</string>
+    <string name="stat">Statisztika</string>
+    <string name="del_stat">Statisztika törlése</string>
+    <string name="ok_button">OK</string>
+    <string name="wins">Nyerések száma</string>
+    <string name="cancel_button">Mégse</string>
+    <string name="reset_title">Biztos benne?</string>
+    <string name="reset_msg">Biztos törölni szeretné a statisztikát?</string>
+    <string name="deleted">Statisztika sikeresen törölve!</string>
+</resources>

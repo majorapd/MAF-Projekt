@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">TTT</string>
+    <string name="newGame">New Game</string>
+    <string name="already_won">The game is over!</string>
+    <string name="win">Won!</string>
+    <string name="taken">Field already taken!</string>
+    <string name="spot">field</string>
+    <string name="current">Current Player:</string>
+    <string name="draw">Draw!</string>
+    <string name="stat">Statistics</string>
+    <string name="del_stat">Delete Statistics</string>
+    <string name="ok_button">OK</string>
+    <string name="wins">Winnings</string>
+    <string name="cancel_button">Cancel</string>
+    <string name="reset_title">Are you sure?</string>
+    <string name="reset_msg">Are you sure want to reset the statistics?</string>
+    <string name="deleted">Statistics reseted successfully!</string>
+</resources>
